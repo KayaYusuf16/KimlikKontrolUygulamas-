@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\bin\Debug\KimlikKontrolUygulaması.exe.config
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\bin\Debug\KimlikKontrolUygulaması.exe
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\bin\Debug\KimlikKontrolUygulaması.pdb
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\obj\Debug\KimlikKontrolUygulaması.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\obj\Debug\KimlikKontrolUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\obj\Debug\KimlikKontrolUygulaması.Properties.Resources.resources
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\obj\Debug\KimlikKontrolUygulaması.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\obj\Debug\KimlikKontrolUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\obj\Debug\KimlikKontrolUygulaması.exe
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\obj\Debug\KimlikKontrolUygulaması.pdb
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\bin\Debug\MetroFramework.Design.dll
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\bin\Debug\MetroFramework.dll
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\obj\Debug\KimlikKontrolUygulaması.Form1.resources
+C:\Users\USER\Desktop\KimlikKontrolUygulaması\KimlikKontrolUygulaması\obj\Debug\KimlikKontrolUygulaması.csproj.CopyComplete
